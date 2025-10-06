@@ -8,6 +8,7 @@
     { "id": 2, "title": "JSON Tips", "userId": 2, "tags": ["json"] }
   ],
   "comments": [
-    { "id": 1, "title": "Nice post", "text": "I like your post.", "postId": 1, "userId": 2 }
+    { "id": 1, "title": "Nice post", "text": "I like your post.", "postId": 1, "userId": 2 },
+    { "id": 0, "title": "GraphQL", "text": "Make another post about GraphQL", "postId": 1, "userId": 1 }
   ]
 }
